@@ -1,0 +1,3 @@
+find yolo.h5 and download it.
+This one worked for me:
+https://www.kaggle.com/rmoharir8396/yolo-h5-file
